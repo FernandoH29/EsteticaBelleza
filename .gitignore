@@ -1,0 +1,24 @@
+
+# Archivos compilados de Java y Maven
+target/
+*.class
+
+# Archivos de NetBeans
+nbproject/private/
+
+# Configuración personal de VS Code
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Variables y credenciales privadas
+.env
+.env.*
+!.env.example
